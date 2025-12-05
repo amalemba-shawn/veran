@@ -1,6 +1,6 @@
 import React from 'react';
 import { ArrowRight, Award, ShieldCheck } from 'lucide-react';
-import profileImg from '../assets/profile.jpg';
+import profileImg from '../assets/profile.png';
 
 interface HeroProps {
   onBookClick: () => void;
